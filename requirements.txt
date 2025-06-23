@@ -1,0 +1,5 @@
+gymnasium[box2d]==0.29.1
+autorom==0.6.1
+torch==2.3.0
+numpy==1.26.4
+imageio==2.34.0
